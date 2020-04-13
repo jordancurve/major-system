@@ -2,7 +2,7 @@
 
 1. Install [clingo](https://potassco.org/clingo/) and Perl.
 
-2. Modify pseudo.lp so it uses your candidate words for the numbers 1-100. Assign a priority to each word (lower is better).
+2. Modify `pseudo.lp` so it uses your candidate words for the numbers 1-100. Assign a priority to each word (lower is better).
 
 3. Add conflicts between words as desired.
 
