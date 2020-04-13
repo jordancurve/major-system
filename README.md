@@ -1,4 +1,4 @@
-# How to run
+# How to use this code
 
 1. Install [clingo](https://potassco.org/clingo/) and Perl.
 
